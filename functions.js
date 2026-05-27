@@ -30,4 +30,4 @@ console.log(sum);
 
 // Nithaam uploaded files to GitHub
 
-// Chad made and uploaded README.md
+// Chad made and uploaded README.md and edited the code to make it more clean and concise. 
